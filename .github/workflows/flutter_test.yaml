@@ -4,7 +4,7 @@ on:
       dev
 
 name: Run Flutter Tests
-job:
+jobs:
   flutter-tests:
     name: "Run tests"
     runs-on: 'ubuntu-latest'
