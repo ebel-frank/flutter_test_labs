@@ -1,4 +1,4 @@
-// Adapter design pattern'
+// Adapter design pattern
 import 'dart:convert';
 
 class YoutubeAPI {
